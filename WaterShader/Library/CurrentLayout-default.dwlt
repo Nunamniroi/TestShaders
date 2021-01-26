@@ -529,13 +529,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 1
   m_Rotation:
-    m_Target: {x: -0.4094767, y: -0.30796897, z: 0.14914265, w: -0.8457698}
+    m_Target: {x: -0.17964602, y: 0.277871, z: -0.052968685, w: -0.94222605}
     speed: 2
-    m_Value: {x: -0.4094767, y: -0.307969, z: 0.14914265, w: -0.8457699}
+    m_Value: {x: -0.17830394, y: 0.27652496, z: -0.052282244, w: -0.94287235}
   m_Size:
-    m_Target: 8.678039
+    m_Target: 5.083272
     speed: 2
-    m_Value: 8.304343
+    m_Value: 5.383272
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -641,23 +641,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: dc330000
-      m_LastClickedID: 13276
-      m_ExpandedIDs: 6afbffff
+      m_SelectedIDs: 82010000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 22f7ffff6afbffffd2330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Sphere
+        m_OriginalName: Sphere
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 13266
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 7}
       m_SearchString: 
@@ -706,19 +706,19 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Shaders
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Shaders
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\andre\Documents\GitHub\TestShaders\WaterShader
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a340000
-    m_LastClickedID: 13418
+    m_SelectedIDs: 7c340000
+    m_LastClickedID: 13436
     m_ExpandedIDs: 000000006a34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -774,7 +774,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000b43600002a4600002e5400009c42000038ab00003abe0000c2bd000050540000285f000058530000b02f00005a46000004a40000a83d0000384b0000c0420000b83f000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
