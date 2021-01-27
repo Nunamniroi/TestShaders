@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexBase:
-        m_Texture: {fileID: 2800000, guid: f864c5fc43f4d7d42b86f7587f350387, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0e9123593f928fa468191e8b86572e03, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask:
@@ -36,7 +36,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SparkleNoise:
-        m_Texture: {fileID: 2800000, guid: 5c748295c17547943a822919a7a704cc, type: 3}
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
@@ -46,8 +46,8 @@ Material:
     - _NoiseWeight: 0.29
     - _RimPower: 20
     - _Scale: 1
-    - _SnowDepth: 0.3
-    - _SnowHeight: 0.3
+    - _SnowDepth: 1.76
+    - _SnowHeight: 1.62
     - _SnowTextureOpacity: 0.3
     - _SnowTextureScale: 0.3
     - _SparkCutoff: 3
@@ -56,7 +56,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _EdgeColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _EdgeColor: {r: 1, g: 0.38823533, b: 0.38823533, a: 1}
     - _PathColor: {r: 0.5, g: 0.5, b: 0.7, a: 1}
     - _RimColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _ToonRamp: {r: 0.5, g: 0.5, b: 0.5, a: 1}

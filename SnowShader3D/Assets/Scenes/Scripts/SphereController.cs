@@ -16,7 +16,7 @@ public class SphereController : MonoBehaviour
 
     void Update()
     {
-        groundedPlayer = controller.isGrounded;
+        groundedPlayer = controller.isTrigger;
         if (groundedPlayer && playerVelocity.y < 0)
         {
             playerVelocity.y = 0f;
@@ -38,5 +38,8 @@ public class SphereController : MonoBehaviour
 
         playerVelocity.y += gravityValue * Time.deltaTime;
         controller.Move(playerVelocity * Time.deltaTime);
-    }   
+
+
+    }
+
 }

@@ -15,7 +15,7 @@
 		_Color("Snow Color", Color) = (0.5,0.5,0.5,1)
 		_PathColor("Snow Path Color", Color) = (0.5,0.5,0.7,1)
 		_MainTex("Snow Texture", 2D) = "white" {}
-		_SnowHeight("Snow Height", Range(0,2)) = 0.3
+		_SnowHeight("Snow Height", Range(0,2)) = 1
 		_SnowDepth("Snow Path Depth", Range(-2,2)) = 0.3
 		_EdgeColor("Snow Edge Color", Color) = (0.5,0.5,0.5,1)
 		_Edgewidth("Snow Edge Width", Range(0,0.2)) = 0.1

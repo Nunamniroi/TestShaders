@@ -608,6 +608,12 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>C:/Users/andre/Documents/GitHub/TestShaders/SnowShader3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Polybrush">
+      <HintPath>C:/Users/andre/Documents/GitHub/TestShaders/SnowShader3D/Library/ScriptAssemblies/Unity.Polybrush.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Polybrush.Editor">
+      <HintPath>C:/Users/andre/Documents/GitHub/TestShaders/SnowShader3D/Library/ScriptAssemblies/Unity.Polybrush.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/andre/Documents/GitHub/TestShaders/SnowShader3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -631,12 +637,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/andre/Documents/GitHub/TestShaders/SnowShader3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Polybrush">
-      <HintPath>C:/Users/andre/Documents/GitHub/TestShaders/SnowShader3D/Library/ScriptAssemblies/Unity.Polybrush.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Polybrush.Editor">
-      <HintPath>C:/Users/andre/Documents/GitHub/TestShaders/SnowShader3D/Library/ScriptAssemblies/Unity.Polybrush.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
